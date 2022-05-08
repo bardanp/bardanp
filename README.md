@@ -6,7 +6,7 @@ Computer Science Student
 
 I've been learning to code for about 4 years throughout high school. I am currently studying Computer Science at Pennslyvania State University. I started with Java, and am currently learning c++, API'S, Database, and Algorithms.
 
-* 🌍  I'm based in Pennslyvania
+* 🌍  I'm based in Pennslyvania, USA
 * ✉️  You can contact me at [bardan.phuyel@hotmail.com](mailto:bardan.phuyel@hotmail.com)
 * 🧠  I'm learning Databases, APIs, and Algorithms
 
