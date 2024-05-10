@@ -12,12 +12,13 @@ A passionate Computer Science student at Pennsylvania State University with a jo
 
 <h2 >🌱 I’m currently learning</h2>
 <p align="center">
-  AWS, Azure, Python, React Native, JS, and more.
+  AWS, Azure, Python, React, React Native, JS, and more.
 </p>
 
 <h2 >🔭 I’m currently working on</h2>
 <p align="center">
   <a href="https://github.com/bardanp/Nittany-Navigator">Nittany Navigator</a>
+  <a href="https://github.com/bardanp/Movie-App">Movie Search App</a>
 </p>
 
 <h2 >👨‍💻 My Projects</h2>
