@@ -17,8 +17,8 @@ A passionate Computer Science student at Pennsylvania State University with a jo
 
 <h2 >🔭 I’m currently working on</h2>
 <p align="center">
-  <a href="https://github.com/bardanp/Nittany-Navigator">Nittany Navigator</a>
-  <a href="https://github.com/bardanp/Movie-App">Movie Search App</a>
+  <a href="https://clarify.bardanp.com/">Clarify</a>
+  <a href="https://github.com/bardanp/MovieBox">MovieBox</a>
 </p>
 
 <h2 >👨‍💻 My Projects</h2>
