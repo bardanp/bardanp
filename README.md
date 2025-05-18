@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bardan Phuyel</h1>
 
 <p align="center">
-A passionate Computer Science student at Pennsylvania State University with a journey in coding that spans over 4 years, starting from high school through to university. My adventure began with Java and has since expanded to C++, APIs, databases, and learning Next.JS and web development
+A passionate Computer Science student at Pennsylvania State University with a journey in coding that spans over 4 years, starting from high school through to university. My adventure began with Java and has since expanded to Learniing more of C++, APIs, Next.JS, and web development
 </p>
 
 <p align="center">
