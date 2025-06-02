@@ -18,7 +18,7 @@ A passionate Computer Science student at Pennsylvania State University with a jo
 <h2 >🔭 I’m currently working on</h2>
 <p align="center">
   <a href="https://clarify.bardanp.com/">Clarify</a>
-  <a href="filmfindr.bardanp.com">FlimFindr</a>
+  <a href="https://filmfindr.bardanp.com">FlimFindr</a>
 </p>
 
 <h2 >👨‍💻 My Projects</h2>
